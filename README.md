@@ -24,7 +24,7 @@ Note: I am unable to upload one of the node_module folders in the frontend to Gi
    npm install axios react
    npx create-react-app myapp
    ```
-5. Replace the following two files with the files corresponding files from this repository:
+5. Replace the following two files with the corresponding files from this repository:
       frontend/myapp/src/App.js and frontend/myapp/src/App.css
 6. Start the frontend.
    ```
