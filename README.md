@@ -13,7 +13,7 @@ Note: I am unable to upload one of the node_module folders in the frontend to Gi
    cd backend
    python3 -m venv venv
    source venv/bin/activate
-   Pip3 install fastapi uvicorn
+   pip3 install fastapi uvicorn
    cd ./app
    uvicorn main:app --reload
    ```
