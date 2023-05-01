@@ -18,7 +18,7 @@ Note: I am unable to upload one of the node_module folders in the frontend to Gi
    uvicorn main:app --reload
    ```
 3. Install Node.js.
-4. In a new terminal window, install the required packages for the frontend server and create a React App.
+4. In a new terminal window, install the required packages for the frontend and create a React App.
    ```shell
    cd frontend
    npm install axios react
