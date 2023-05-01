@@ -1,6 +1,6 @@
-# Character-Count
+# Character-Countbackend
  
-This web app allows users to check the character count of a paragraph. The frontend uses FastAPI and the backend uses React.
+This web app allows users to check the character count of a paragraph. The backend uses FastAPI and the frontkend uses React.
 
 ## How to Run the App
 Note: I am unable to upload one of the node_module folders in the frontend to Github due to its large size, so to run this project, you must create your own project and then replace some files with this project's files.
