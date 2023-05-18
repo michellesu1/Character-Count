@@ -1,4 +1,4 @@
-# Character-Countbackend
+# Character-Count
  
 This web app allows users to check the character count of a paragraph. The backend uses FastAPI and the frontkend uses React.
 
